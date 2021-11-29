@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repositories version="1.0">
+	<repo quality="experimental" status="unofficial">
+	<name>base16-overlay</name>
+	<description>Base16 Overlay</description>
+	<source type="git">https://github.com/base16-fork/base16-overlay</source>
+	</repo>
+</repositories>
